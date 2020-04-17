@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\pap3\Unit1.cpp=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\pap3\List.h=D:\pap3\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,D:\pap3\Unit3.cpp=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,D:\pap3\Node.h=D:\pap3\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\pap3\List.cpp=D:\pap3\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\pap3\Unit4.cpp=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\pap3\main.cpp=D:\pap3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.517,D:\pap3\Project2.cbproj=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\pap3\Unit1.h=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\pap3\main.dfm=D:\pap3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.824,D:\pap3\Project2PCH1.h=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,D:\pap3\Unit3.h=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,D:\pap3\Unit1.dfm=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,D:\pap3\Unit4.h=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\pap3\main.h=D:\pap3\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,D:\pap3\Node.cpp=D:\pap3\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project2.cpp"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="List.cpp"/>
+    <File Path="List.cpp"/>
+    <File Path="List.h"/>
+    <File Path="Node.cpp"/>
+    <File Path="Node.cpp"/>
+    <File Path="Node.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
